@@ -1,0 +1,1 @@
+{/*u can use {title,date,amount} instead of prop and to access it use {date} */}
